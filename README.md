@@ -1,8 +1,3 @@
-Perfect 🔥
-Here is a **detailed, professional README.md content** you can directly copy and paste into your `README.md` file.
-
----
-
 # 🚀 Pixora
 
 > A modern, scalable, and high-performance web application for efficient image management and processing.
